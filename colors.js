@@ -3,7 +3,7 @@ const colors = {
     secondary: "#9333EA", // Purple
     accent: "#F59E0B", // Amber
     background: "#F3F4F6", // Gray
-    text_gali: "#16faef", // Dark Gray
+    text_gali: "#b2fd2a", // Dark Gray
   };
   
   module.exports = colors;
