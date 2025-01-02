@@ -1,5 +1,14 @@
 :root {
-  --font-family-medium: "Bold";
-  --font-name-medium: "Rubik-Bold";
-  --font-path-medium: "../shared-theme/fonts/Rubik-Bold.ttf";
+  /* Define all font configurations here */
+  --font-family-bold: "Rubik-Bold";
+  --font-name-bold: "Rubik-Bold";
+  --font-path-bold: "../shared-theme/fonts/Rubik-Bold.ttf";
+
+  --font-family-medium: "Rubik-Medium";
+  --font-name-medium: "Rubik-Medium";
+  --font-path-medium: "../shared-theme/fonts/Rubik-Medium.ttf";
+
+  --font-family-regular: "Rubik-Regular";
+  --font-name-regular: "Rubik-Regular";
+  --font-path-regular: "../shared-theme/fonts/Rubik-Regular.ttf";
 }
