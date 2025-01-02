@@ -1,1 +1,1 @@
-export const FontFamily = "RubikBold";
+export const FontFamily = "RubikMedium";
